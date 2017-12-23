@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "name": "The Adventures of Tom Sawyer",
+        "authors": ["Mark Twain"],
+        "genre": "novel",
+        "description": "Mark Twain's novel is one of the first American literary masterpieces, embracing local vernacular to personify the unique small-town culture of this fledgling nation."
+    },
+
+    {
+        "id": "2",
+        "name": "Let it Snow",
+        "authors": ["John Green", "Maureen Johnson"],
+        "genre": "romance",
+        "description": "Sparkling white snowdrifts, beautiful presents wrapped in ribbons, and multicolored lights glittering in the night through the falling snow. A Christmas Eve snowstorm transforms one small town into a romantic haven, the kind you see only in movies."
+    },
+
+    {
+        "id": "3",
+        "name": "Modern Romance",
+        "authors": ["Aziz Ansari"],
+        "genre": "humor",
+        "description": "At some point, every one of us embarks on a journey to find love. We meet people, date, get into and out of relationships, all with the hope of finding someone with whom we share a deep connection."
+    },
+
+    {
+        "id": "4",
+        "name": "The Adventures of Huckleberry Finn",
+        "authors": ["Mark Twain"],
+        "genre": "novel",
+        "description": "Adventures of Huckleberry Finn is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English"
+    }
+]

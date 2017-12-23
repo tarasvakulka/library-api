@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Mark Twain",
+        "biography": "Born in in Florida, Missouri, The United States November 30, 1835. American author and humorist. He is noted for his novels Adventures of Huckleberry Finn (1885), called the Great American Novel, and The Adventures of Tom Sawyer (1876).",
+        "books": ["The Adventures of Tom Sawyer","The Adventures of Huckleberry Finn"]
+    },
+
+    {
+        "id": "2",
+        "name": "John Green",
+        "biography": "Born in Indianapolis, The United States. John Green's first novel, Looking for Alaska, won the 2006 Michael L. Printz Award presented by the American Library Association. His second novel, An Abundance of Katherines, was a 2007 Michael L. Printz Award Honor Book and a finalist for the Los Angeles Times Book Prize.",
+        "books": ["Let it Snow"]
+    },
+
+    {
+        "id": "3",
+        "name": "Aziz Ansari",
+        "biography": "Born in Columbia, South Carolina, The United States February 23, 1983. Aziz Ishmael Ansari is an American actor and comedian. He starred as Tom Haverford on the NBC show Parks and Recreation. Ansari began his career performing standup comedy in New York City.",
+        "books": ["Modern Romance"]
+    },
+
+    {
+        "id": "4",
+        "name": "Maureen Johnson",
+        "biography": "Born in Philadelphia, PA, The United States. Maureen knew from an early age she wanted to be a writer. She went to high school at an all-girls' Catholic school and graduated from University of Delaware with a degree in writing. She now lives and writes in New York City.",
+        "books": ["Let it Snow"]
+    }
+]
